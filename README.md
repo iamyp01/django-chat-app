@@ -2,6 +2,7 @@
 > This is a chat app made using Django
 > Author: Yuvraj Parashar
 > Screenshots of the project
+```
 ---
 ![Web capture_12-1-2022_212936_127 0 0 1](https://user-images.githubusercontent.com/66880935/149177104-4203c3a1-dece-431c-b41a-42dae1551339.jpeg)
 ---
@@ -17,5 +18,4 @@
 ---
 ![Web capture_12-1-2022_213059_127 0 0 1](https://user-images.githubusercontent.com/66880935/149177263-094826fa-c1a7-4058-9c72-22d4aa188632.jpeg)
 ---
-### Run this project
----
+```
